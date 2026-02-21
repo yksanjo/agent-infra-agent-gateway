@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-agent-gateway",
+  "version": "1.0.0",
+  "description": "API Gateway for AI agent communication",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "agent-gateway"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-agent-gateway.git"
+  }
+}
